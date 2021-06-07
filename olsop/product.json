@@ -1,0 +1,71 @@
+{
+  "product": [
+    {
+      "userId": 1,
+      "id": 2,
+      "nama": "Tas Mukena Rajut",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/2imqesneku752-ID/image;s=850x0",
+      "harga": 140000,
+      "stok": 3
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "nama": "Vas Bunga Koran",
+      "image": "https://s4.bukalapak.com/img/4622610683/w-1000/kerajinan_tangan_.jpg",
+      "harga": 45000,
+      "stok": 2
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "nama": "Kerajinan Jam Tangan",
+      "image": "https://s1.bukalapak.com/img/6499535303/large/kerajinan_tangan_jam_dinding_dari_koran.jpg",
+      "harga": 55000,
+      "stok": 10
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "nama": "Bunga Kering Alami",
+      "image": "https://ae01.alicdn.com/kf/H85a90bc82ade44e1a8f058d08c65aeb8M/Bunga-Kering-Alami-Ditekan-Herbarium-Bunga-Kerajinan-Tangan-Dekoratif-Filler-untuk-Cetakan-Silikon-Perhiasan-Membuat-Krisan.jpg",
+      "harga": 52500,
+      "stok": 3
+    },
+    {
+      "userId": 1,
+      "id": 1589389804106,
+      "nama": "Perabot Cantik",
+      "image": "https://s2.bukalapak.com/img/2656358723/w-1000/talenan_hias_kaligrafi_Decoupage_1set.jpg",
+      "harga": "100000",
+      "stok": "5"
+    },
+    {
+      "userId": 1589389927997,
+      "id": 1589389927997,
+      "nama": "Tas Cantik",
+      "image": "https://perindag.gunungkidulkab.go.id/foto_berita/752019-07-17_10.44.16.jpg",
+      "harga": "50000",
+      "stok": "10"
+    },
+    {
+      "userId": 1590853161780,
+      "id": 1590853161780,
+      "nama": "1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuVh1NnSrncBcNtqwxpkGyB0i09Av0XtnemakOEnrXkcr6bak9&usqp=CAU",
+      "harga": "1",
+      "stok": "1"
+    },
+    {
+      "userId": 1590853359758,
+      "id": 1590853359758,
+      "nama": "Chat Doktor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuVh1NnSrncBcNtqwxpkGyB0i09Av0XtnemakOEnrXkcr6bak9&usqp=CAU",
+      "harga": "100000",
+      "stok": "10"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
